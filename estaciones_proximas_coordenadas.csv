@@ -1,0 +1,9 @@
+﻿codigo,estacion,latitud,longitud,este_utm17n,norte_utm17n,fuente,estado_verificacion
+BURA,Boca de Uracillo,8.975833,-80.175,590688.05,992282.25,Anuario ACP 2005; coordenadas hidrométricas convertidas,Por verificar coincidencia con pluviómetro
+LMA,Las Marías,8.895833,-80.221389,585607.12,983425.79,Anuario ACP 2006; coordenadas hidrométricas convertidas,Por verificar coincidencia con pluviómetro
+CAN,Los Cañones,8.946283,-80.064528,602841,989044,Coordenadas indicadas previamente; fuente documental por reconfirmar,Provisional
+RAI,Las Raíces,9.091569,-79.988022,611208,1005131,Coordenadas indicadas previamente; fuente documental por reconfirmar,Provisional
+CHR,El Chorro,8.975454,-79.990274,610996,992291,Coordenadas indicadas previamente; fuente documental por reconfirmar,Provisional
+HUM,La Humedad,9.068481,-80.04204,605278,1002562,Coordenadas indicadas previamente; fuente documental por reconfirmar,Provisional
+GAD,Gasparillal,8.865107,-80.016129,608186,980082,Coordenadas indicadas previamente; fuente documental por reconfirmar,Provisional
+CCA,Cerro Cama,9.02686,-79.905709,620276,998002,Coordenadas indicadas previamente; fuente documental por reconfirmar; posible traslado,Provisional
